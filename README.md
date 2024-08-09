@@ -6,7 +6,6 @@
 
 <p align="left">✨ Creating bugs since <code>November 28, 2021</code></p>
 <p align="left">📚 I'm currently learning <a href="https://www.rust-lang.org"><code>Rust</code></a></p>
-<p align="left">🔭 I’m currently working on <a href="https://github.com/FurStaku/Sapphire"><code>Sapphire</code></a></p>
 
 ## I use...
 
